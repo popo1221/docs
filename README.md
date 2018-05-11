@@ -6,4 +6,5 @@
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide)
 - [与 Docker 紧密整合的 12 大开源工具](https://my.oschina.net/editorial-story/blog/1544279)
 - [Kubernetes手册](https://jimmysong.io/kubernetes-handbook/)
+- [Istio官方文档中文版](http://istio.doczh.cn/docs/concepts/what-is-istio/overview.html)
 
