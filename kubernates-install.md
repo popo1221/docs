@@ -27,5 +27,5 @@ $> sudo ln -s /usr/libexec/docker/docker-runc-current /usr/bin/docker-runc
 ```
 
 - Bind for 127.0.0.1:1514 failed: port is already allocated'
-修改文件`docker-compose.yml`中：
+修改文件`docker-compose.yml`中：    
 `- 127.0.0.1:1514:10514` ==> `- "1514:10514"`
