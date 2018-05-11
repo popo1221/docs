@@ -23,7 +23,7 @@ $> sudo ln -s /usr/bin/libexec/docker/docker-proxy-current /usr/bin/docker-proxy
 - /usr/bin/docker-current: Error response from daemon: shim error: docker-runc not installed on system.
 ```bash
 $> cd /usr/libexec/docker/
-$> sudo ln -s /usr/bin/libexec/docker/docker-runc-current /usr/bin/docker-runc
+$> sudo ln -s /usr/libexec/docker/docker-runc-current /usr/bin/docker-runc
 ```
 
 - Bind for 127.0.0.1:1514 failed: port is already allocated'
