@@ -5,4 +5,5 @@
 - [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/)
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide)
 - [与 Docker 紧密整合的 12 大开源工具](https://my.oschina.net/editorial-story/blog/1544279)
+- [Kubernetes手册](https://jimmysong.io/kubernetes-handbook/)
 
