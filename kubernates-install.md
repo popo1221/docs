@@ -3,6 +3,9 @@
 - Need to install docker-compose(1.7.1+) by yourself first and run this script again.
 ```bash
 $> sudo -E env "PATH=$PATH" ./install.sh
+# or
+$> sudo groupadd docker
+$> sudo usermod -aG docker $USER
 ```
 
 - Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?
@@ -21,4 +24,9 @@ $> sudo ln -s docker-proxy-current /usr/bin/docker-proxy
 ```bash
 $> cd /usr/libexec/docker/
 $> sudo ln -s docker-runc-current /usr/bin/docker-runc
+```
+
+- Bind for 127.0.0.1:1514 failed: port is already allocated'
+```bash
+
 ```
