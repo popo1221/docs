@@ -4,6 +4,11 @@
 $>  curl -sSL https://get.daocloud.io/docker | sh
 ```
 
+- Error: Unable to curl repository file https://download.docker.com/linux/centos/docker-ce.repo, is it valid?
+```bash
+# https://yq.aliyun.com/articles/110806
+```
+
 - Need to install docker-compose(1.7.1+) by yourself first and run this script again.
 ```bash
 $> sudo -E env "PATH=$PATH" ./install.sh
