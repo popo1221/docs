@@ -1,4 +1,8 @@
-
+- 在 Linux上 安装 Docker (Daocloud)
+```bash
+# http://get.daocloud.io/#install-docker
+$>  curl -sSL https://get.daocloud.io/docker | sh
+```
 
 - Need to install docker-compose(1.7.1+) by yourself first and run this script again.
 ```bash
