@@ -1,3 +1,5 @@
+- 请先参考：https://www.cnblogs.com/RainingNight/p/deploying-k8s-dashboard-ui.html
+
 - 在 Linux上 安装 Docker (Daocloud)
 ```bash
 # http://get.daocloud.io/#install-docker
